@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: collaboration.png
 category: Stories
 title: Increased Collaboration and Innovation
 description: |

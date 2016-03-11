@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: refresh-laptop.png
 category: Stories
 title: Redesign of a Flagship Product
 description: |

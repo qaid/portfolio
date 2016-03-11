@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: maze-thinking.png
 category: Stories
 title: Reduced Cognitive Load & Increased Conversions
 description: |
