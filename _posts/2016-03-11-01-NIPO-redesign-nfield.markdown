@@ -1,0 +1,10 @@
+---
+layout: default
+img: ipad.png
+category: Stories
+title: Redesign of a Flagship Product
+description: |
+---
+To access new markets and speed development of NIPO Software's flagship product, [Nfield Manager](https://www.niposoftware.com/Products/Nfield), we decided to overhaul its look & feel and transition to a different front end and routing Framework.
+
+To refine and prioritize years of product innovation ideas from all corners of the company, I lead design sprints and discovery sessions. To determine the best direction for the product's visual design, I synthesized the best bits of popular dashboards. To make the design-to-development process efficient, I made interactive prototypes and coded finalized solutions into a living style guide.
