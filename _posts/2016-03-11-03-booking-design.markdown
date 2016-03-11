@@ -1,6 +1,7 @@
 ---
 layout: default
 img: maze-thinking.png
+image-credit: Image by Gilbert Bages (Noun Project)
 category: Stories
 title: Reduced Cognitive Load & Increased Conversions
 description: |

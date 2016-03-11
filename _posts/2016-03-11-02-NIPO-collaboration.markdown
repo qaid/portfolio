@@ -1,6 +1,7 @@
 ---
 layout: default
 img: collaboration.png
+image-credit: Image by Justin Alexander (Noun Project)
 category: Stories
 title: Increased Collaboration and Innovation
 description: |

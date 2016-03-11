@@ -1,6 +1,7 @@
 ---
 layout: default
 img: refresh-laptop.png
+image-credit: Image by Till Teenck (Noun Project)
 category: Stories
 title: Redesign of a Flagship Product
 description: |

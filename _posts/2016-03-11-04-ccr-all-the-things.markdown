@@ -1,6 +1,7 @@
 ---
 layout: default
 img: protest-flag.png
+image-credit: Image by Juan Pable Bravo (Noun Project)
 category: Stories
 title: Designed Solutions That Told Stories & Inspired Action
 description: |
