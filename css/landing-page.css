@@ -10,7 +10,6 @@ html {
     height: 100%;
 }
 
-body,
 h1,
 h2,
 h3,
@@ -21,9 +20,14 @@ h6 {
     font-weight: 700;
 }
 
+body {
+    font-family: "Merriweather",serif;
+    font-weight: 300;
+}
+
 .lead {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .intro-header {
@@ -84,9 +88,11 @@ h6 {
 
 #about .row h2 {
     margin: 50px 0;
+    font-weight: 300;
 }
 
 p.image-credit {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 300;
     padding-top: 5px;
 }
