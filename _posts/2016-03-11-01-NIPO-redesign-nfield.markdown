@@ -6,6 +6,6 @@ category: Stories
 title: Redesign of a Flagship Product
 description: |
 ---
-To access new markets and speed development of NIPO Software's flagship product, [Nfield Manager](https://www.niposoftware.com/Products/Nfield), we decided to overhaul its look & feel and transition to a different front end and routing Framework.
+At NIPO Software, a complex build process was taking away focus on the front end. It caused a pile-up of great product ideas at NIPO Software. As the UX Designer, I was also anxious to improve the interfaces and work flows.
 
-To refine and prioritize years of product innovation ideas from all corners of the company, I lead design sprints and discovery sessions. To determine the best direction for the product's visual design, I synthesized the best bits of popular dashboards. To make the design-to-development process efficient, I made interactive prototypes and coded finalized solutions into a living style guide.
+To make space for those ideas, we decided to change to an Ember front-end, which would allow greater speed and get more and more workflow ideas into the product. While designing layouts that clarified customer workflows and improved accessibility, I built a dynamic style guide to extend the discussion around design and make the build process more efficient.
