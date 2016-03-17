@@ -6,6 +6,6 @@ category: Stories
 title: Increased Collaboration and Innovation
 description: |
 ---
-To leverage the creative drives and social connections between my colleagues at [NIPO Software](http://niposoftware.com), I established and promoted tools and opportunities for collaboration.
+**I lead Design Sprints, started the company Hackathon, organized the adoption of Slack, and launched the company blog**
 
-To take advantage of the innovative but often out-of-scope product ideas that most everyone had, and to have some fun, I introduced and organized the company's periodic hackathon event. To reduce the friction of sharing information within the company, I implemented and shepherded the adoption of a Slack team. To encourage better communication and rethinking of our conclusions, I made a space for all of our writing by coding and launching the internal blog.
+To leverage the creative drives and social connections between my colleagues at [NIPO Software](http://niposoftware.com), I started the company hackathon. To encourage a more active culture of communication, I organized the adoption of Slack across development, product management, marketing, sales, and support departments. To refine and prioritize years of product innovation ideas from all corners of the company, I lead design sprints and discovery sessions. To encourage the sharing and rethinking of our conclusions, I made a space for all of our writing by coding and launching the internal blog.
