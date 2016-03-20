@@ -3,7 +3,7 @@ layout: default
 img: maze-thinking.png
 image-credit: Image by Gilbert Bages (Noun Project)
 category: Stories
-title: Reduced Cognitive Load & Increased Conversions
+title: Increased Conversions
 description: |
 ---
 **I designed work flows and UI at Booking.com to speed users through the funnel and encourage confidence in their decision making.**
