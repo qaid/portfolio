@@ -8,4 +8,4 @@ description: |
 ---
 **I designed work flows and UI at Booking.com to speed users through the funnel and encourage confidence in their decision making.**
 
-To minimize information overload and highlight the most appropriate selections in a crowded view, I studied user research and common patterns to design effective visual artifacts. Working with copywriters, back-end developers, and other designers, I used iterative design approaches, A/B testing, and multivariate testing to increase conversions on the site.
+With so many options and bits of information being presented on every page, as a web designer embedded with the Search Results team, my goal was always to minimize the noise and elevate the hierarchy.
