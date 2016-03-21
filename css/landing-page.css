@@ -21,8 +21,8 @@ h6 {
 }
 
 body {
-    font-family: serif;
     font-weight: 300;
+    font-size: 22px;
 }
 
 .lead {
@@ -103,6 +103,7 @@ ul.intro-social-buttons {
 
 p.image-credit {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
     font-weight: 300;
     padding-top: 5px;
 }
@@ -133,6 +134,16 @@ p.image-credit {
     float: left;
     width: 200px;
     border-top: 3px solid #e7e7e7;
+}
+
+.details.collapse.in p,
+.details.collapse p {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+}
+
+.details img {
+    max-width: 550px;
 }
 
 .banner {
