@@ -21,3 +21,11 @@
   ga('send', 'pageview');
 
 </script>
+
+<!-- Remove the persistent underline on Bootstrap links -->
+<script>
+  $("a").click(function (e) {
+      $(this).blur();
+      e.preventDefault();
+  });
+</script>
