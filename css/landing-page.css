@@ -101,6 +101,23 @@ ul.intro-social-buttons {
     font-weight: 300;
 }
 
+.details.collapse {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(231, 231, 231);
+    padding-top: 1em;
+}
+
+.details.collapse.in p,
+.details.collapse p {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+}
+
+.details img {
+    max-width: 550px;
+}
+
 .details.collapse p.image-credit,
 .details.collapse.in p.image-credit,
 p.image-credit {
@@ -141,16 +158,6 @@ p.image-credit {
 
 img.img-responsive {
     opacity: 0.3;
-}
-
-.details.collapse.in p,
-.details.collapse p {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-}
-
-.details img {
-    max-width: 550px;
 }
 
 .banner {
