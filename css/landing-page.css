@@ -101,11 +101,14 @@ ul.intro-social-buttons {
     font-weight: 300;
 }
 
+.details.collapse p.image-credit,
+.details.collapse.in p.image-credit,
 p.image-credit {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 12px;
     font-weight: 300;
     padding-top: 5px;
+    text-align: center;
 }
 
 .network-name {
@@ -134,6 +137,10 @@ p.image-credit {
     float: left;
     width: 200px;
     border-top: 3px solid #e7e7e7;
+}
+
+img.img-responsive {
+    opacity: 0.3;
 }
 
 .details.collapse.in p,
