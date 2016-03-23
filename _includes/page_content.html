@@ -1,8 +1,6 @@
 <section id="stories">
 <!-- Page Content -->
-{% for post in site.posts reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
+
     <div class="content-section-a">
 
         <div class="container">
@@ -10,12 +8,19 @@
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading">Redesigned a Flagship Product</h2>
+                    <div class="lead">
+                      <p class="strong">I built a dynamic style guide to extend the discussion around design and make the build process more efficient.</p>
+
+                      <p>At NIPO Software, a complex build process was taking focus away from the front end of their dashboard app. The pace caused a pile-up of great product ideas. As the UX Designer, I was anxious to improve the interfaces and speed of front-end development.</p>
+
+                      <a role="button" data-toggle="collapse" href="#collapseNIPO1" aria-expanded="false" aria-controls="collapseStories">Details on my process and outcomes</a>.
+
+                    </div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/stories/{{ post.img }}" alt="">
-                    <p class="image-credit">{{ post.image-credit }}</p>
+                    <img class="img-responsive" src="img/stories/refresh-laptop.png" alt="">
+                    <p class="image-credit">Image by Till Teenck (Noun Project)</p>
                 </div>
             </div>
 
@@ -35,12 +40,12 @@
               </div>
             </div>
 
+
         </div>
         <!-- /.container -->
 
     </div>
     <!-- /.content-section-a -->
-    {% else %}
 
     <div class="content-section-b">
 
@@ -49,12 +54,18 @@
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading">Increased Collaboration and Innovation</h2>
+                    <div class="lead">
+                      <p class="strong">I lead Design Sprints, started the company Hackathon, organized the adoption of Slack, and launched the company blog</p>
+
+                      <p>To leverage the creative drives and social connections between my colleagues at NIPO Software, I started the company hackathon. To encourage a more active culture of communication, I organized the adoption of Slack across development, product management, marketing, sales, and support departments.</p>
+
+                      <a role="button" data-toggle="collapse" href="#collapseNIPO2" aria-expanded="false" aria-controls="collapseStories">Details on my process and outcomes</a>.
+                    </div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/stories/{{ post.img }}" alt="">
-                  <p class="image-credit text-center">{{ post.image-credit }}</p>
+                  <img class="img-responsive" src="img/stories/collaboration.png" alt="">
+                  <p class="image-credit text-center">Image by Justin Alexander (Noun Project)</p>
                 </div>
             </div>
 
@@ -79,6 +90,95 @@
 
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
-{% endfor %}
+
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Increased Conversions</h2>
+                    <div class="lead">
+                      <p class="strong">I designed work flows and UI at Booking.com to speed users through the funnel and encourage confidence in their decision making.</p>
+
+                      <p>With so many options and bits of information being presented on every page, as a web designer embedded with the Search Results team, my goal was always to minimize the noise and elevate the hierarchy.</p>
+
+                      <a role="button" data-toggle="collapse" href="#collapseBooking" aria-expanded="false" aria-controls="collapseStories">Details on my process and outcomes</a>.
+
+                    </div>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/stories/maze-thinking.png" alt="">
+                    <p class="image-credit">Image by Gilbert Bages (Noun Project)</p>
+                </div>
+            </div>
+
+            <div class="row">
+              <div class="details collapse" id="collapseBooking" aria-expanded="true">
+                <div class="col-lg-6">
+                  <p>I studied user research and common patterns to design effective visual artifacts. Working with copywriters, back-end developers, and other designers, I used iterative design approaches, A/B testing, and multivariate testing to increase conversions on the site.</p>
+                  <img src="img/booking1.jpg">
+                  <p class="image-credit">One of my harmonious interface elements that leveraged strong copy and common patterns</p>
+                </div>
+                <div class="col-lg-6">
+                  <p>Booking.com is a large organization with hundreds of developers contantly committing code and deploying; there I gained a great appreciation for being a part of a large whole.  The fast paced environment helped me to improve my skills in fast decision making and avoiding work that produced low value.</p>
+                  <p>I eagerly participated in design reviews and took the opportunity to present case histories and lessons learned to all the designers in the company. I found ways to channel that feedback and inspiration into my product designs.</p>
+                  <img src="img/booking2.jpg">
+                  <p class="image-credit">I designed views with visual organization as a priority. There, gold plating and fanciness hurt conversion rates.</p>
+                </div>
+              </div>
+            </div>
+
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Told Stories &amp; Inspired Action</h2>
+                    <div class="lead">
+                      <p class="strong">I designed physical and digital media which told compelling stories that inspired action.</p>
+
+                      <p>The work of supporting efforts to preserve human rights is infused with tight deadlines and limited resources. To help make the difference with the Center for Constitutional Rights, I coded and launched websites and email campaigns, designed publications and posters, produced and edited video, and implemented technological infrastructure to manage the organization's creative assets.</p>
+
+                      <a role="button" data-toggle="collapse" href="#collapseCCR" aria-expanded="false" aria-controls="collapseStories">Details on my process and outcomes</a>.
+                    </div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/stories/protest-flag.png" alt="">
+                  <p class="image-credit text-center">Image by Juan Pable Bravo (Noun Project)</p>
+                </div>
+            </div>
+
+            <div class="row">
+              <div class="details collapse" id="collapseCCR" aria-expanded="true">
+                <div class="col-lg-6">
+                  <p>The Center for Constitutional Rights executes many campaigns with various goals at any one time. As the only staff member there responsible for all web and multimedia content, I was regularly meeting with stakeholders and identifying and strategizing on opportunities to get our messages into the public. Using the open source  Wordpress framework I designed, published and maintained multiple microsites addressing specific campaign goals. Using the Salsa DemocracyInAction advocacy and marketing platform, I designed HTML email campaigns and managed subscribers towards civic participation and fundraising goals.</p>
+                  <img src="img/ccr-stop-and-frisk.jpg">
+                  <p class="image-credit">The Stop And Frisk website highlighting police abuse of power in NYC</p>
+                </div>
+                <div class="col-lg-6">
+                  <p>We frequently leveraged video to tell stories in compelling ways. I shot, edited, and designed the sequences for all of the video produced during my time there.</p>
+                  <iframe src="https://player.vimeo.com/video/55564850" width="550" height="309" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  <p class="image-credit">One of the videos I produced at the Center for Constitutional Rights.</p>
+                  <p>By producing so much digital content, I helped the organization keep its issues viable in the Internet space and age. By implementing the open source ResourceSpace media management platform I allowed all of the organization's digital content to be discoverable and sharable.</p>
+                </div>
+              </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+
 </section>
