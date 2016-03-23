@@ -122,8 +122,9 @@ ul.intro-social-buttons {
 .details.collapse.in p.image-credit,
 p.image-credit {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 300;
+    max-width: 535px;
     padding-top: 5px;
     text-align: center;
 }
