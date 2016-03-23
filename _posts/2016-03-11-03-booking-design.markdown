@@ -9,3 +9,5 @@ description: |
 **I designed work flows and UI at Booking.com to speed users through the funnel and encourage confidence in their decision making.**
 
 With so many options and bits of information being presented on every page, as a web designer embedded with the Search Results team, my goal was always to minimize the noise and elevate the hierarchy.
+
+<a role="button" data-toggle="collapse" href="#collapseBooking" aria-expanded="false" aria-controls="collapseStories">Details on my process and outcomes</a>.
