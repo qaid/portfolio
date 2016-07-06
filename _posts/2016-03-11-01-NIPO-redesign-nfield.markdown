@@ -6,6 +6,6 @@ category: Stories
 title: Redesigned a Flagship Product
 description: |
 ---
-**I built a dynamic style guide to extend the discussion around design and make the build process more efficient.**
+**I lead the company through the discovery of product strengths and implemented a visual language and framework that maximizes speed and efficiency.**
 
-At NIPO Software, a complex build process was taking focus away from the front end of their dashboard app. The pace caused a pile-up of great product ideas. As the UX Designer, I was anxious to improve the interfaces and speed of front-end development.
+At NIPO Software, I rejuvenated and modernize a dashboard interface that serves as the gateway to major international data collection projects. In order to prioritize the right ideas, I organized Design Sprints. I then prototyped the ideas and iterated on them, increasing the fidelity at each stage.
