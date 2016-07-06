@@ -45,7 +45,7 @@ body {
     padding-bottom: 10px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg-color-gradient.jpg) no-repeat center center;
+    background-color: rgb(101, 101, 101);
     background-size: cover;
 }
 
@@ -72,6 +72,15 @@ body {
 .intro-message > h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     margin-bottom: 25px;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
+.btn-black:hover {
+    color: gray;
 }
 
 @media(max-width:767px) {
